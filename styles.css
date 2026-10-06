@@ -223,6 +223,10 @@ header {
     white-space: nowrap; 
 }
 
+.table tr:nth-child(odd) {
+    background-color: #f7fafc;
+}
+
 .table th {
     background-color: #1a73e8;
     color: white;
