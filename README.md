@@ -3,7 +3,7 @@
 Tugas ini adalah implementasi User Interface halaman dasboard untuk manajemen data mahasiswa. Tugas ini menggunakan struktur HTML dasar dan CSS murni.
 
 ### Identitas
-Nama : Benedictus Imanuel Wicaksono
+Nama : Benedictus Imanuel Wicaksono<br>
 NRP  : 5025251039
 
 ## Fitur Utama
